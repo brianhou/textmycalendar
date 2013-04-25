@@ -13,7 +13,7 @@ Installation
 
 ### Setup ###
 
-1. Set up a Google Voice number and make sure it forwards texts to your email. This can be changed in your Google Voice settings (_Voicemail & Text > Text Forwarding_).
+1. Set up a Google Voice number and make sure it forwards texts to your email. This can be changed in your Google Voice settings under _Voicemail & Text > Text Forwarding_.
 2. Create a Gmail filter to catch the Google Voice emails you receive when you text yourself. Label them with **calendar**.
 3. Obtain a Twilio phone number and fill in the fields of twilio.gs with your **Account SID**, **Auth Token**, your **Twilio phone number**, and the phone number you'd like to receive notifications from. You can find the first two on your Twilio dashboard and the third on the Numbers tab.
 4. Create a new project at http://script.google.com. Copy and paste the scripts into script files.
